@@ -2,8 +2,8 @@ from enum import Enum
 
 
 class USPSClientEnums(Enum):
-    USPSUserId = "177CSGAC8025"
-    USPSUserPass = "840OH42MZ640"
+    USPSUserId = ""
+    USPSUserPass = ""
 
 
 class USPSClientAPITypes(Enum):
